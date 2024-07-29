@@ -1,0 +1,6 @@
+@SuperHeroAPI___DotNet8_HostAddress = http://localhost:5252
+
+GET {{SuperHeroAPI___DotNet8_HostAddress}}/api/SuperHero/
+Accept: application/json
+
+###
