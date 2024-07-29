@@ -29,8 +29,8 @@ This is a simple Super Hero API built with .NET 8.0.7 that provides full CRUD op
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/super-hero-api.git
-   cd super-hero-api
+   git clone https://github.com/RavanM2003/SuperHeroAPI.git
+   cd SuperHeroAPI
    ```
 
 2. **Install dependencies:**
